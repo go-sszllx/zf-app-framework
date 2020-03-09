@@ -1,0 +1,4 @@
+src/proto/*.go
+bin
+.idea
+go.sum
